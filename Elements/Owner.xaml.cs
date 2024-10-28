@@ -5,7 +5,7 @@ namespace Word_Graf.Elements
     /// <summary>
     /// Логика взаимодействия для Owner.xaml
     /// </summary>
-    public partial class Owner : Page
+    public partial class Owner : UserControl
     {
         public Owner(Context.OwnerContext roomOwner)
         {
